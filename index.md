@@ -13,3 +13,7 @@ PerfectScore Github Pages
 [Podcast Guest-En](https://perfectscorepublic.github.io/pages/podcast-guest-en)
 
 [Podcast Guest-Ch](https://perfectscorepublic.github.io/pages/podcast-guest-ch)
+
+[Privacy Policy]({{ site.base }}/pages/privacy-police)
+
+[Term of Service]({{ site.base }}/pages/term-of-service)
