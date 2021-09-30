@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Perfectscore Term of Service
+title: Perfectscore Terms of Service
 ---
-<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Term of Service</h1>
+<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Terms of Service</h1>
 
 ## **Interpretation and Definitions**
 
