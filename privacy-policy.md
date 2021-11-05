@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perfectscore Privacy Police
+title: aha Privacy Police
 ---
 <h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Privacy Policy</h1>
 
