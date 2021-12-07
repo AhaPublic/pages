@@ -100,4 +100,4 @@ If required by law, we will get your permission or give you the opportunity to o
 For any questions or concerns regarding your privacy, you may contact us using the following details:
 
 Customer Service<br>
-[getperfectscore@gmail.com](mailto:getperfectscore@gmail.com)
+[getAha@gmail.com](mailto:getAha@gmail.com)

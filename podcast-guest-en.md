@@ -13,7 +13,7 @@ aha is actively recruiting our podcast’s special guests!! Do you want to share
 
 ## About us：
 
-PerfectScore is a product which provides free practices for different types of exams such as TOEIC, SAT and TOEFL. After the user's completion with the practices, the system will record the answers and our AI system will analyze weakness. The Weakness training included in the product will provide training that strengthens users' efficiency in answering questions.
+Aha is a product which provides free practices for different types of exams such as TOEIC, SAT and TOEFL. After the user's completion with the practices, the system will record the answers and our AI system will analyze weakness. The Weakness training included in the product will provide training that strengthens users' efficiency in answering questions.
 
 ## Who we want?
 
@@ -42,7 +42,7 @@ PerfectScore is a product which provides free practices for different types of e
 
   1. Introduce yourself briefly.
   2. Why do you want to become a student ambassador?
-  3. What are your ideas for promoting PerfectScore?
+  3. What are your ideas for promoting Aha?
      <br />
      <br />
 

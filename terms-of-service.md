@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perfectscore Terms of Service
+title: Aha Terms of Service
 ---
 <h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Terms of Service</h1>
 
@@ -14,12 +14,12 @@ For the purposes of these Terms and Conditions:
 
 - Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 - Country refers to: Delaware, United States
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Perfectscore, Inc, 85 Broad St., NY 10004.
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Aha, Inc, 85 Broad St., NY 10004.
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - Service refers to the Website.
 - Terms and Conditions (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the Terms and Conditions Generator
 - Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-- Website refers to Perfectscore, accessible from [https://getperfectscore.com/](https://getperfectscore.com/)
+- Website refers to Aha, accessible from [https://getAha.com/](https://getAha.com/)
 - You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ## **Acknowledgment**
@@ -90,4 +90,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 For any questions or concerns regarding your privacy, you may contact us using the following details:
 
 Customer Service<br>
-[getperfectscore@gmail.com](mailto:getperfectscore@gmail.com)
+[getAha@gmail.com](mailto:getAha@gmail.com)

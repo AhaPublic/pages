@@ -1,8 +1,8 @@
-[PerfectScore FAQ](https://perfectscorepublic.github.io/pages/perfectscore-faq)
+[Aha FAQ](https://Ahapublic.github.io/pages/Aha-faq)
 
-[Student Ambassador](https://perfectscorepublic.github.io/pages/student-ambassador)
+[Student Ambassador](https://Ahapublic.github.io/pages/student-ambassador)
 
-[Podcast Guest](https://perfectscorepublic.github.io/pages/podcast-guest-en)
+[Podcast Guest](https://Ahapublic.github.io/pages/podcast-guest-en)
 
 ```bash
 #Install rbenv

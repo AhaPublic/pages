@@ -6,13 +6,13 @@ title: aha Github Pages
 
 aha Github Pages
 
-[aha FAQ](https://perfectscorepublic.github.io/pages/perfectscore-faq)
+[aha FAQ](https://Ahapublic.github.io/pages/Aha-faq)
 
-[Student Ambassador](https://perfectscorepublic.github.io/pages/student-ambassador)
+[Student Ambassador](https://Ahapublic.github.io/pages/student-ambassador)
 
-[Podcast Guest-En](https://perfectscorepublic.github.io/pages/podcast-guest-en)
+[Podcast Guest-En](https://Ahapublic.github.io/pages/podcast-guest-en)
 
-[Podcast Guest-Ch](https://perfectscorepublic.github.io/pages/podcast-guest-ch)
+[Podcast Guest-Ch](https://Ahapublic.github.io/pages/podcast-guest-ch)
 
 [Privacy Policy]({{ site.base }}/pages/privacy-policy)
 
