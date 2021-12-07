@@ -100,4 +100,4 @@ If required by law, we will get your permission or give you the opportunity to o
 For any questions or concerns regarding your privacy, you may contact us using the following details:
 
 Customer Service<br>
-[getAha@gmail.com](mailto:getAha@gmail.com)
+[Grow@findaha.com](mailto:Grow@findaha.com)

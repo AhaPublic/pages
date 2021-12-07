@@ -19,7 +19,7 @@ Device means any device that can access the Service such as a computer, a cellph
 - Service refers to the Website.
 - Terms and Conditions (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the Terms and Conditions Generator
 - Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-- Website refers to Aha, accessible from [https://getAha.com/](https://getAha.com/)
+- Website refers to Aha, accessible from [https://findaha.com/](https://findaha.com/)
 - You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ## **Acknowledgment**
@@ -90,4 +90,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 For any questions or concerns regarding your privacy, you may contact us using the following details:
 
 Customer Service<br>
-[getAha@gmail.com](mailto:getAha@gmail.com)
+[Grow@findaha.com](mailto:Grow@findaha.com)

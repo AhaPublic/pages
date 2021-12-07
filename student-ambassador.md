@@ -9,7 +9,7 @@ Do you want to catch a glimpse at the start-ups in Silicon Valley? Do you want t
 
 For more questions on the program, please read below.
 
-_*Please note, the Student Ambassador Program is a volunteer program. Only students who perform well will get an extra bonus, but there is no monetary reward or payment for participating in the program. If you have any further questions, please feel free to email us [Ahabettereng@gmail.com.](mailto:Ahabettereng@gmail.com.)*_
+_*Please note, the Student Ambassador Program is a volunteer program. Only students who perform well will get an extra bonus, but there is no monetary reward or payment for participating in the program. If you have any further questions, please feel free to email us [perfectscorebettereng@gmail.com..](mailto:perfectscorebettereng@gmail.com.@gmail.com.)*_
 
 ## About us：
 
