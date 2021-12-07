@@ -1,12 +1,12 @@
 ---
 layout: default
-title: aha Github Pages
+title: Aha Github Pages
 ---
-<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Perfect Score 校園大使/品牌形象代言人</h1>
+<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Aha 校園大使/品牌形象代言人</h1>
 
-aha Github Pages
+Aha Github Pages
 
-[aha FAQ](https://Ahapublic.github.io/pages/Aha-faq)
+[Aha FAQ](https://Ahapublic.github.io/pages/Aha-faq)
 
 [Student Ambassador](https://Ahapublic.github.io/pages/student-ambassador)
 
