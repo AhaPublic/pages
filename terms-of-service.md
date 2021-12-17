@@ -86,7 +86,7 @@ We reserve the right, at Our sole discretion, to modify or replace these Terms a
 
 By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
 
-We are a global company and operate internationally. For our Taiwanese users, our company is under Chi Xiang He La (unicode: 52877804), which operates the brands Aha and GetPerfectScore.
+We are a global company and operate internationally. For our Taiwanese users, our company is under Chi Xiang He La (unicode: 52877804), which operates the products and brands Aha, GetPerfectScore, AVL Talent Acquisition, and AVL Avance Venture Lab.
 
 ## **Contact Us**
 For any questions or concerns regarding your privacy, you may contact us using the following details:
