@@ -5,7 +5,7 @@ title: Aha Privacy Police
 <h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Privacy Policy</h1>
 
 ## **Information We Collect**
-Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services.
+We value our users' privacy. We are committed to respecting your privacy and to protecting the confidentiality of your personal data. Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services.
 
 ### **Log Data**
 When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your device’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, other details about your visit, and technical details that occur in conjunction with any errors you may encounter.
@@ -90,6 +90,9 @@ We use &ldquo;cookies&rdquo; to collect information about you and your activity 
 
 ## **Limits of Our Policy**
 Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+
+## **Intellectual property rights**
+The following attributes of information and contents used on or provided by the Mobile App (including but not limited to text, descriptions, illustrations, drawings, graphics, files, page design, mobile app planning and layout) are intellectual properties owned by this Mobile App or their respective rights-holders: patents, copyrights, trademarks, trade secrets, specialized know-how and others. Unless otherwise authorized by the rights-holders in writing, users are prohibited from conducting the following activities with respect to the intellectual property rights: reproduction, public dissemination, public broadcasting, public screening, adaptation, editing, renting, distribution, reverse engineering, decompilation, disassembly or other activities. In the event of a violation, the user committing such violation will be held liable. In addition, if said user's actions result in damages or losses to the Mobile App, we reserve the right to seek damages from the user.
 
 ## **Changes to This Policy**
 At our discretion, we may change our privacy policy to reflect updates to our business processes, current acceptable practices, or legislative or regulatory changes. If we decide to change this privacy policy, we will post the changes here at the same link by which you are accessing this privacy policy.
